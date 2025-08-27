@@ -1,4 +1,4 @@
-DROP DATABASE tafe;
+DROP DATABASE if exists tafe;
 CREATE DATABASE tafe;
 
 USE tafe;
