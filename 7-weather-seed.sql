@@ -1,3 +1,4 @@
+DROP DATABASE IF EXISTS meteorology;
 CREATE DATABASE meteorology;
 
 USE meteorology;
