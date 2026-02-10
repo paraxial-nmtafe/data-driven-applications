@@ -14291,6 +14291,14 @@ INSERT INTO inventory VALUES (1,1,'2006-02-15 05:09:17'),
 (4581,1000,'2006-02-15 05:09:17');
 COMMIT;
 
+-- A few extra rows for class exercises.
+insert into countries values
+(110, 'Andorra', now()),
+(111, 'Laos', now()) ;
+
+insert into cities values
+(601, 'Perth', (select id from countries where country like 'australia' limit 1), now());
+
 --
 -- Dumping data for table language
 --
