@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\5004365.AD\\source\\repos\\film_finder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3C105C-D948-45CE-B768-20266B1332DA}|film_finder\\film_finder.csproj|c:\\users\\5004365.ad\\source\\repos\\film_finder\\film_finder\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD3C105C-D948-45CE-B768-20266B1332DA}|film_finder\\film_finder.csproj|solutionrelative:film_finder\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3C105C-D948-45CE-B768-20266B1332DA}|film_finder\\film_finder.csproj|c:\\users\\5004365.ad\\source\\repos\\film_finder\\film_finder\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FD3C105C-D948-45CE-B768-20266B1332DA}|film_finder\\film_finder.csproj|solutionrelative:film_finder\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\5004365.AD\\source\\repos\\film_finder\\film_finder\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "film_finder\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\5004365.AD\\source\\repos\\film_finder\\film_finder\\MainWindow.xaml.cs",
+              "RelativeToolTip": "film_finder\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCgAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T03:02:04.923Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "fa7fea0b-7005-4269-9039-be096cb8b19f",
+        "Display": 0,
+        "X": 440,
+        "Y": 71,
+        "Width": 1155,
+        "Height": 566,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\5004365.AD\\source\\repos\\film_finder\\film_finder\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "film_finder\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\5004365.AD\\source\\repos\\film_finder\\film_finder\\MainWindow.xaml",
+              "RelativeToolTip": "film_finder\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-28T03:02:06.034Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
